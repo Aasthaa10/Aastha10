@@ -1,2 +1,2 @@
 # Aastha10
-My special reposittory
+My special repository
